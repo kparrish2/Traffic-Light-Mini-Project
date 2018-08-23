@@ -1,5 +1,7 @@
 # Hello World with React and Cloud 9
 
+![traffic light using react js](https://user-images.githubusercontent.com/39283223/44548477-3070ed80-a6ec-11e8-8407-8d198bd845f8.gif)
+
 #### Make sure you have node version 8
 ```sh
 $ nvm install 8
